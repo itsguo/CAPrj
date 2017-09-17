@@ -1,0 +1,12 @@
+.ss{
+    display: block;
+}
+.header{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+.content{
+    margin-top: 90px;   
+    margin-bottom: 100px;
+}

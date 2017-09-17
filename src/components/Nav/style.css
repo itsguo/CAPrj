@@ -1,0 +1,30 @@
+.signdiv1{
+      width: 0.44rem;
+      height: 0.44rem;
+      background: url('../../static/sign1.png') center center /  0.42rem 0.42rem no-repeat;
+}
+.signdiv2{
+      width: 0.44rem;
+      height: 0.44rem;
+      background: url('../../static/sign2.png') center center /  0.42rem 0.42rem no-repeat;
+}
+.historydiv1{
+       width: 0.44rem;
+      height: 0.44rem;
+      background: url('../../static/history1.png') center center /  0.42rem 0.42rem no-repeat;   
+}
+.historydiv2{
+       width: 0.44rem;
+      height: 0.44rem;
+      background: url('../../static/history2.png') center center /  0.42rem 0.42rem no-repeat;   
+}
+.persondiv1{
+      width: 0.44rem;
+      height: 0.44rem;
+      background: url('../../static/person1.png') center center /  0.42rem 0.42rem no-repeat;  
+}
+.persondiv2{
+      width: 0.44rem;
+      height: 0.44rem;
+      background: url('../../static/person2.png') center center /  0.42rem 0.42rem no-repeat;  
+}

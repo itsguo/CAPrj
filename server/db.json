@@ -1,0 +1,141 @@
+{
+  "user": [
+    {
+      "username": "10000000",
+      "name": "张三",
+      "password": "123",
+      "id": "10000000"
+    },
+    {
+      "id": "10000001",
+      "password": "123",
+      "name": "李四"
+    }
+  ],
+  "signup": [
+    {
+      "id": "1",
+      "userid": "10000000",
+      "course": {
+        "id": "1",
+        "name": "英语",
+        "desc": "this is english",
+        "address": "c3-304",
+        "year": "2017",
+        "begintime": "00:25:00",
+        "imgname": "english.png"
+      },
+      "status": 2,
+      "time": "2017-09-17T16:51:51.011Z"
+    },
+    {
+      "id": "2",
+      "userid": "10000000",
+      "course": {
+        "id": "2",
+        "name": "物理",
+        "desc": "这是物理课",
+        "address": "c3-304",
+        "year": "2017",
+        "begintime": "01:10:00",
+        "imgname": "phy.png"
+      },
+      "status": 1,
+      "time": "2017-09-17T17:04:17.629Z"
+    },
+    {
+      "id": "3",
+      "userid": "10000000",
+      "course": {
+        "id": "3",
+        "name": "java",
+        "desc": "这是java课",
+        "address": "c3-304",
+        "year": "2017",
+        "begintime": "01:40:00",
+        "imgname": "java.png"
+      },
+      "status": 0,
+      "time": "2017-09-16T12:30:33.406Z"
+    },
+    {
+      "id": "4",
+      "userid": "10000000",
+      "course": {
+        "id": "4",
+        "name": "c",
+        "desc": "这是c课",
+        "address": "c2-104",
+        "year": "2017",
+        "begintime": "02:30:00",
+        "imgname": "c.png"
+      },
+      "status": 0,
+      "time": "2017-09-16T13:15:30.826Z"
+    },
+    {
+      "id": "5",
+      "userid": "10000000",
+      "course": {
+        "id": "5",
+        "name": "体育",
+        "desc": "这是体育课",
+        "address": "操场",
+        "year": "2017",
+        "begintime": "03:00:00",
+        "imgname": "sport.png"
+      },
+      "status": 0,
+      "time": "2017-09-16T15:48:22.797Z"
+    },
+    {
+      "id": "6",
+      "userid": "10000001",
+      "course": {
+        "id": "2",
+        "name": "物理",
+        "desc": "这是物理课",
+        "address": "c3-304",
+        "year": "2017",
+        "begintime": "01:15:00",
+        "imgname": "phy.png"
+      },
+      "status": 1,
+      "time": "2017-09-17T17:03:46.177Z"
+    }
+  ],
+  "history": [
+    {
+      "userid": "10000001",
+      "coursename": "物理",
+      "time": "2017-09-17T17:03:46.177Z",
+      "desc": "正常签到",
+      "imgname": "phy.png",
+      "id": 1
+    },
+    {
+      "userid": "10000000",
+      "coursename": "java",
+      "time": "2017-09-17T16:04:17.629Z",
+      "desc": "正常签到",
+      "imgname": "java.png",
+      "id": 2
+    },
+    {
+      "userid": "10000000",
+      "coursename": "c",
+      "time": "2017-09-15T17:04:17.629Z",
+      "desc": "正常签到",
+      "imgname": "c.png",
+      "id": 2
+    },
+    {
+      "userid": "10000000",
+      "coursename": "english",
+      "time": "2017-09-16T17:04:17.629Z",
+      "desc": "缺勤",
+      "imgname": "english.png",
+      "id": 2
+    }
+  ]
+}

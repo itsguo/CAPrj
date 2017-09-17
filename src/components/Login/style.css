@@ -1,0 +1,33 @@
+.Logincontainer{
+    display: flex;
+    margin-top: 150px;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+ .btn{
+    margin-top: 20px;
+   width: 500px;
+} 
+
+
+.am-list-item{
+    margin-bottom: 20px;
+}
+.loginicon{
+      width: 1.5rem;
+    height: 1.5rem;
+    background: url('../../static/login.png') center center /  1.5rem 1.5rem no-repeat;
+    margin-bottom: 75px;
+}
+.userLogin{
+     width: 0.44rem;
+     height: 0.44rem;
+     background: url('../../static/user.png') center center /  0.42rem 0.42rem no-repeat;
+}
+.passwordLogin{
+     width: 0.44rem;
+     height: 0.44rem;
+     background: url('../../static/password.png') center center /  0.42rem 0.42rem no-repeat;
+}
